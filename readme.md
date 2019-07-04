@@ -28,8 +28,8 @@ pygame.  Pretty simple!
 
 ## Screen shots
 
-![Screen shot 1](./images/screenshot1.jpg)
-![Screen shot 2](./images/screenshot2.jpg)
+![Screen shot 1](./images/Screenshot1.jpg)
+![Screen shot 2](./images/Screenshot2.jpg)
 
 ### Contact information
 
