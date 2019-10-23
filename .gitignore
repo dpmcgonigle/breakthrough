@@ -8,9 +8,9 @@
 *.ipynb		# Jupyter Notebooks
 .ipynb*		# Jupyter Notebook cache
 __pycache__
-augmented_images.py	# This is a test script to view the augmented images
 dist        # executable
 executable  # executable
+first_crack_at_it/* # first code files attempt before Jufei did his thing
 
 # Compiled source #
 ###################
